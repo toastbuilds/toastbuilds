@@ -34,7 +34,7 @@
 The main app offers independent HUD windows with shared appearance settings, multiple layouts, and the freedom to arrange only the instruments you need.
 
 <p align="center">
-  <a href="https://github.com/toastbuilds/assetto-corsa-retro-engineering-hud"><img src="https://img.shields.io/badge/Explore_Retro_UI-b4befe?style=for-the-badge&labelColor=313244&logo=github&logoColor=cdd6f4" alt="Explore Retro UI on GitHub" /></a>
+  <a href="https://www.overtake.gg/downloads/retro-ui-retro-hud-for-assetto-corsa.87398/"><img src="https://img.shields.io/badge/Explore_Retro_UI-b4befe?style=for-the-badge&labelColor=313244" alt="Explore Retro UI on OverTake.gg" /></a>
   <a href="https://github.com/toastbuilds/assetto-corsa-retro-engineering-hud/releases/latest"><img src="https://img.shields.io/badge/Latest_release-a6e3a1?style=for-the-badge&labelColor=313244&logo=github&logoColor=cdd6f4" alt="Latest Retro UI release" /></a>
 </p>
 
