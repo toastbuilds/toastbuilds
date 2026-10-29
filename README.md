@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/toastbuilds/assetto-corsa-retro-engineering-hud"><img src="https://img.shields.io/badge/%E2%9C%A6_Retro_UI-cba6f7?style=for-the-badge&labelColor=313244&color=cba6f7" alt="Retro UI" /></a>
-  <a href="https://github.com/toastbuilds/SeaGlass"><img src="https://img.shields.io/badge/Material_3_Expressive-fab387?style=for-the-badge&labelColor=313244&color=fab387" alt="Material 3 Expressive" /></a>
+  <img src="https://img.shields.io/badge/Material_3_Expressive-fab387?style=for-the-badge&labelColor=313244&color=fab387" alt="Material 3 Expressive" />
   <a href="https://github.com/toastbuilds?tab=repositories"><img src="https://img.shields.io/badge/Open_source-a6e3a1?style=for-the-badge&labelColor=313244&color=a6e3a1" alt="Open source" /></a>
 </p>
 
@@ -26,7 +26,7 @@
 ## ✦ In the spotlight: Retro UI
 
 <a href="https://github.com/toastbuilds/assetto-corsa-retro-engineering-hud">
-  <img src="./assets/retro-ui-showcase.svg" alt="Retro UI — analog-inspired motorsport instruments, live timing and telemetry for Assetto Corsa" width="100%" />
+  <img src="./assets/retro-ui-showcase.png" alt="Retro UI — real previews of the driving display, tachometer, race relative and track map rendered from the project's Lua instruments" width="100%" />
 </a>
 
 **[Retro UI](https://github.com/toastbuilds/assetto-corsa-retro-engineering-hud)** is an open-source collection of configurable motorsport instruments for **Assetto Corsa + Custom Shaders Patch**. It brings together speed and RPM dials, live timing, tyre information, telemetry, track maps and race awareness in a cohesive retro-inspired interface.
@@ -56,7 +56,6 @@ The main app offers independent HUD windows with shared appearance settings, mul
 
 | | |
 | :-- | :-- |
-| **[SeaGlass](https://github.com/toastbuilds/SeaGlass)**<br />*Android · Kotlin · GPU graphics* | A graphics and UI foundation exploring sea-glass optics, fluid surfaces and Material 3 Expressive design. |
 | **[GPP Volumetrics](https://github.com/toastbuilds/GPP-Volumetrics)**<br />*Kerbal Space Program · visual modding* | Volumetric clouds and atmospheric effects for Galileo's Planet Pack. |
 | **[JNSQ Parallax Continued](https://github.com/toastbuilds/JNSQ_ParallaxScattersContinued)**<br />*Kerbal Space Program · terrain* | Terrain-scatter integration for JNSQ with its custom textures. |
 
