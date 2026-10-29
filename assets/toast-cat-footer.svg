@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160" role="img" aria-labelledby="title desc">
+  <title id="title">Toast cat resting on a line</title>
+  <desc id="desc">A tiny black cat peeks from its slice of toast above a fine lavender line, with peach and mauve sparkles.</desc>
+  <defs>
+    <linearGradient id="thread" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#585b70" stop-opacity="0"/>
+      <stop offset=".25" stop-color="#cba6f7"/>
+      <stop offset=".75" stop-color="#b4befe"/>
+      <stop offset="1" stop-color="#585b70" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bread" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff1d2"/>
+      <stop offset="1" stop-color="#f9e2af"/>
+    </linearGradient>
+  </defs>
+  <path d="M22 124H407 M514 124H878" stroke="url(#thread)" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M407 124C395 94 399 79 406 66C395 51 406 30 427 28C441 26 448 34 455 33C471 18 501 29 505 46C508 54 507 63 502 70L504 111C504 122 496 128 483 128H427C418 128 412 127 407 124Z" fill="url(#bread)" stroke="#11111b" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M417 91Q414 67 427 57L428 32L446 49Q459 44 470 49L489 33L495 57Q510 81 494 95Q466 111 432 100Z" fill="#11111b"/>
+  <path d="M417 76L400 69 M417 84L398 84 M497 77L515 70 M498 85L518 84" stroke="#11111b" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="446" cy="76" r="10" fill="#fffaf2"/>
+  <circle cx="475" cy="76" r="10" fill="#fffaf2"/>
+  <circle cx="446" cy="76" r="6.5" fill="#11111b"/>
+  <circle cx="475" cy="76" r="6.5" fill="#11111b"/>
+  <ellipse cx="426" cy="100" rx="9" ry="7.5" fill="#11111b"/>
+  <ellipse cx="489" cy="100" rx="9" ry="7.5" fill="#11111b"/>
+  <path d="M431 127Q450 114 463 126 M477 128Q491 117 502 125" fill="none" stroke="#11111b" stroke-width="5" stroke-linecap="round"/>
+  <path d="M548 62l4 12 12 4-12 4-4 12-4-12-12-4 12-4Z" fill="#cba6f7"/>
+  <path d="M370 83l3 9 9 3-9 3-3 9-3-9-9-3 9-3Z" fill="#fab387"/>
+  <circle cx="581" cy="103" r="4" fill="#b4befe"/>
+  <circle cx="348" cy="110" r="3" fill="#cba6f7"/>
+  <text x="450" y="151" text-anchor="middle" fill="#a6adc8" font-family="Consolas,monospace" font-size="13" letter-spacing="2">get toasted ✦</text>
+</svg>
